@@ -3,15 +3,18 @@
 
 ##
 
-#### Sobre mim:
+####
 
-Engenheira de produção me especializando em:
-
-
-Data Anaytics 
+Sou Engenheira de Produção me especializando em:
 
 
-Logística e Supply Chain Management
+✅Data Anaytics 
+
+✅Logística e Supply Chain Management
+
+E agora, utilizando as linguagens SQL e Python para analisar dados e automatizar processos! 😊
+
+##
 
 
 
