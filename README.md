@@ -8,9 +8,9 @@
 Sou Engenheira de Produção me especializando em:
 
 
-✅Data Anaytics 
+✅Data Anaytics - IGTI instituto de Tecnologia
 
-✅Logística e Supply Chain Management
+✅Logística e Supply Chain Management - Fundação Getúlio Vargas
 
 E agora, utilizando as linguagens SQL e Python para analisar dados e automatizar processos! 😊
 
